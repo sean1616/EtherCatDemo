@@ -1,0 +1,16 @@
+C:\Users\User\Source\Repos\EtherCat_SMMC-GMT_control_demo\ethercat_smmc-gmt_control_demo\bin\Debug\NEXTWUSBLib.dll
+C:\Users\User\Source\Repos\EtherCat_SMMC-GMT_control_demo\ethercat_smmc-gmt_control_demo\bin\Debug\ethercat_smmc-gmt_control_demo.exe.config
+C:\Users\User\Source\Repos\EtherCat_SMMC-GMT_control_demo\ethercat_smmc-gmt_control_demo\bin\Debug\ethercat_smmc-gmt_control_demo.exe
+C:\Users\User\Source\Repos\EtherCat_SMMC-GMT_control_demo\ethercat_smmc-gmt_control_demo\bin\Debug\ethercat_smmc-gmt_control_demo.pdb
+C:\Users\User\Source\Repos\EtherCat_SMMC-GMT_control_demo\ethercat_smmc-gmt_control_demo\bin\Debug\EC-01M_Control.dll
+C:\Users\User\Source\Repos\EtherCat_SMMC-GMT_control_demo\ethercat_smmc-gmt_control_demo\bin\Debug\NEXTWUSB_dotNET_12B.dll
+C:\Users\User\Source\Repos\EtherCat_SMMC-GMT_control_demo\ethercat_smmc-gmt_control_demo\bin\Debug\EC-01M_Control.pdb
+C:\Users\User\Source\Repos\EtherCat_SMMC-GMT_control_demo\ethercat_smmc-gmt_control_demo\obj\Debug\ethercat_smmc-gmt_control_demo.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\EtherCat_SMMC-GMT_control_demo\ethercat_smmc-gmt_control_demo\obj\Debug\ethercat_smmc-gmt_control_demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Source\Repos\EtherCat_SMMC-GMT_control_demo\ethercat_smmc-gmt_control_demo\obj\Debug\ethercat_smmc_gmt_control_demo.Form1.resources
+C:\Users\User\Source\Repos\EtherCat_SMMC-GMT_control_demo\ethercat_smmc-gmt_control_demo\obj\Debug\ethercat_smmc_gmt_control_demo.Properties.Resources.resources
+C:\Users\User\Source\Repos\EtherCat_SMMC-GMT_control_demo\ethercat_smmc-gmt_control_demo\obj\Debug\ethercat_smmc-gmt_control_demo.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\EtherCat_SMMC-GMT_control_demo\ethercat_smmc-gmt_control_demo\obj\Debug\ethercat_smmc-gmt_control_demo.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\EtherCat_SMMC-GMT_control_demo\ethercat_smmc-gmt_control_demo\obj\Debug\ethercat_smmc-gmt_control_demo.csproj.CopyComplete
+C:\Users\User\Source\Repos\EtherCat_SMMC-GMT_control_demo\ethercat_smmc-gmt_control_demo\obj\Debug\ethercat_smmc-gmt_control_demo.exe
+C:\Users\User\Source\Repos\EtherCat_SMMC-GMT_control_demo\ethercat_smmc-gmt_control_demo\obj\Debug\ethercat_smmc-gmt_control_demo.pdb

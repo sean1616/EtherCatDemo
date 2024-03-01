@@ -1,0 +1,9 @@
+C:\Users\User\Source\Repos\EtherCat_SMMC-GMT_control_demo\EC-01M_Control\bin\Debug\NEXTWUSBLib.dll
+C:\Users\User\Source\Repos\EtherCat_SMMC-GMT_control_demo\EC-01M_Control\bin\Debug\EC-01M_Control.dll
+C:\Users\User\Source\Repos\EtherCat_SMMC-GMT_control_demo\EC-01M_Control\bin\Debug\EC-01M_Control.pdb
+C:\Users\User\Source\Repos\EtherCat_SMMC-GMT_control_demo\EC-01M_Control\bin\Debug\NEXTWUSB_dotNET_12B.dll
+C:\Users\User\Source\Repos\EtherCat_SMMC-GMT_control_demo\EC-01M_Control\obj\Debug\EC-01M_Control.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\EtherCat_SMMC-GMT_control_demo\EC-01M_Control\obj\Debug\EC-01M_Control.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\EtherCat_SMMC-GMT_control_demo\EC-01M_Control\obj\Debug\EC-01M_Control.csproj.CopyComplete
+C:\Users\User\Source\Repos\EtherCat_SMMC-GMT_control_demo\EC-01M_Control\obj\Debug\EC-01M_Control.dll
+C:\Users\User\Source\Repos\EtherCat_SMMC-GMT_control_demo\EC-01M_Control\obj\Debug\EC-01M_Control.pdb
